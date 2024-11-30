@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html>
    <head>welcome</head>
+   <br>
     <body>Pratik Ravindra Matkar 
         <hr>
         <h1>hello !!!!!</h1>
-        <hr><hr>
+        <hr>
         <h1>Start!!</h1>
         <image src="images/lamboo.jpg"
         alt="image of car!!!"
         height="300px">
         <image src="images/tenor.jpg"
+           alt="Image of Cartoon"
         height="300px"
         width="500px"></image><br><br><br>
     <a href="https://www.youtube.com/">MILLINIOR SONG</a><br>
@@ -26,15 +28,6 @@
     <s>Pratik Matkar</s><br><hr>
     <mark>Pratiksha</mark><hr>
   <p>Pratik.ravindra.matkar Pratiksha.ravindra.matkar Ravindra.matkar Rasika.ravindra.matkar</p>  <hr>
-    <pre>
-        Pratik.ravindra.matkar      
-                  
-                <i>Pratiksha.ravindra.matkar</i>
-
-                <u>Ravindra.matkar</u>
-
-        <s>Rasika.ravindra.matkar</s>       
-    </pre>
 <hr>
 <big>This is big text</big>
 <hr>
@@ -76,20 +69,12 @@
     <li>hockey</li>
     <li>kabbadi</li></ul><hr>   
 
-    <ul>
-    <li>cricket</li>
-    <ul><li>open....</li>
-    <li>box....</li></ul>
-    <li>football</li>
-    <li>hockey</li>
-    <li>kabbadi</li>
-    </ul>
-<hr>
+
  <table border="1"> <caption><b><mark>Friends</mark></b></caption>
 
-    <th>Name</th>
-    <th>Branch</th>
-    <th>Roll No</th>
+   <th>Name</th>
+   <th>Branch</th>
+   <th>Roll.No></th>
    <tr> 
     <td>Nishant</td>
     <td>Comps</td>
@@ -114,37 +99,26 @@
     <td colspan="3">Friends since first year</td>
 </tr>
 </table><hr>
-
-<form action="/contact-me" target="_blank">
-
     <label for="Name">UserName:</label>
     UserName: <input type="text" id="Name" placeholder="xyz" required="true"><br><br>
-
-
-    <label for="Branch">Branch</label>
+ <label for="Branch">Branch</label>
     Branch: <input type="text" id="Branch"><br><br>
-
     <label for="Roll.No">Roll.No</label>
     Roll.No: <input type="number" id="Roll.No"> <br><br>
-
-    Date: <input type="date"><br>
+ Date: <input type="date"><br>
 <hr>
     <label for="male">male:</label>
     <input type="radio"  id="male" name="gender"  value="male"><br>
-
-    <label for="female">female:</label>
+ <label for="female">female:</label>
     <input type="radio"  id="female" name="gender"  value="female"><br>
-
-    <label for="others">others:</label>
+ <label for="others">others:</label>
     <input type="radio" id="others" name="gender"  value="others"><br>
 <hr>
     <label for="c">c</label>
     <input type="checkbox" name="lang" id="c" value="c"><br>
-
-    <label for="java">java</label>
+<label for="java">java</label>
     <input type="checkbox" name="lang" id="java"><br>
-
-    <label for="python">python</label>
+   <label for="python">python</label>
     <input type="checkbox" name="python" id="python"><br>
 <hr>
     <label for="Domain">Select your Domain</label>
@@ -158,15 +132,15 @@
     <textarea name="Views" id="Views" cols="25" rows="10">     Give Your Views.</textarea><br>
 <hr>
 
-    File: <input type="file"><br>
+File: <input type="file"><br>
 <hr>
 
-    Button:<input type="button" value="click me"><br>
+   Button:<input type="button" value="click me"><br>
 <hr>
     <input type="submit"><hr>
 </form>
     <iframe src="https://en.wikipedia.org/wiki/Main_Page" height="200" width="300"></iframe>
 
-    <iframe src="https://chatgpt.com/" width="300" height="200"></iframe>
+ <iframe src="https://chatgpt.com/" width="300" height="200"></iframe>
 </body>
 </html>
