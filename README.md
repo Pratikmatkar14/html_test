@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <head><title>Welcome to Project..... </title></head>
+   
     <body>Pratik Ravindra Matkar 
         <hr>
         <h1>hello !!!!!</h1>
