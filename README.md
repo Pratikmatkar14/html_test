@@ -140,7 +140,5 @@ File: <input type="file"><br>
     <input type="submit"><hr>
 </form>
     <iframe src="https://en.wikipedia.org/wiki/Main_Page" height="200" width="300"></iframe>
-
- <iframe src="https://chatgpt.com/" width="300" height="200"></iframe>
 </body>
 </html>
